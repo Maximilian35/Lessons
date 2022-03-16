@@ -1,3 +1,4 @@
+# Функция НДС
 def get_vat(payment, persent=20): # функции
 	try: # если
 		payment = float(payment) 
